@@ -3,3 +3,6 @@
 
 # All config files
 *.ini
+
+# All log files
+*.log
