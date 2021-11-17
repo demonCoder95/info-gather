@@ -1,0 +1,5 @@
+# All zip files
+*.zip
+
+# All config files
+*.ini

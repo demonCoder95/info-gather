@@ -1,0 +1,2 @@
+# The paramiko library for SSH facilities
+paramiko >= 2.8.0
