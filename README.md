@@ -32,3 +32,18 @@ Each host has its own section with the username and password specified. Since
 a typical use case of this application is in off-site locations, passwords can
 be safely written in a configuration file and then deleted upon conclusion
 of the information gathering activity.
+
+## How to Use the Program
+
+1. Install the dependencies of the application.
+
+```bash
+    pip3 install -r requirements.txt
+```
+
+2. Prepare a configuration file as suggested, say named ``config-file.ini``.
+3. Run the application.
+
+```bash
+    python3 main.py config-file.ini
+```
